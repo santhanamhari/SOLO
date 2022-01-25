@@ -25,4 +25,4 @@ rate scheduler was set up to match the original setup.
 
 ![Screen Shot 2022-01-25 at 4 35 55 AM](https://user-images.githubusercontent.com/40223805/150951831-ced92c26-a9d0-4917-8dd3-df92b34830ad.png)
 
-![Screen Shot 2022-01-25 at 4 36 08 AM](https://user-images.githubusercontent.com/40223805/150951843-e2fd6997-69fe-4402-8c63-157c8a4407bd.png)
+![Screen Shot 2022-01-25 at 4 43 31 AM](https://user-images.githubusercontent.com/40223805/150952249-ad42f245-9f6a-4abf-a88f-8752c0f86455.png)
