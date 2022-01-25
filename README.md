@@ -4,6 +4,8 @@ We implement SOLO with a category and mask branch for segmentation. We assign ea
 
 ## Model Architecture
 
+![Screen Shot 2022-01-25 at 4 40 10 AM](https://user-images.githubusercontent.com/40223805/150951584-b22ac9d1-e471-4a2c-bdff-de3429863c57.png)
+
 
 ## Training Details
 
@@ -15,7 +17,6 @@ rate scheduler was set up to match the original setup.
 
 # Results
 
-
-
+![Screen Shot 2022-01-25 at 4 35 33 AM](https://user-images.githubusercontent.com/40223805/150951703-f437410e-35e8-49db-aef2-dcc4a6d499e6.png)![Screen Shot 2022-01-25 at 4 35 39 AM](https://user-images.githubusercontent.com/40223805/150951735-e6257913-3e46-4c73-87e8-e3d3f61105a0.png)![Screen Shot 2022-01-25 at 4 35 50 AM](https://user-images.githubusercontent.com/40223805/150951745-0b8de525-46db-4356-b1d1-2c3677d185b2.png)
 
 
